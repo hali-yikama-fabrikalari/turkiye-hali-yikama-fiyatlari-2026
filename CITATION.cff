@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Bu veri setini kullanırsanız lütfen aşağıdaki gibi kaynak gösterin. / If you use this dataset, please cite it as below."
+type: dataset
+title: "Türkiye Halı Yıkama Fiyatları 2026"
+authors:
+  - name: "Halı Yıkama Fabrikaları"
+    website: "https://haliyikamafabrikalari.com"
+    email: "destek@haliyikamafabrikalari.com"
+date-released: 2026-11-25
+version: "2026.11"
+license: CC-BY-4.0
+url: "https://haliyikamafabrikalari.com/hali-yikama-fiyatlari"
+abstract: "Türkiye'nin 81 ilinde ve 682 ilçesinde halı yıkama firmalarının 24 halı türü için m² fiyatları (en düşük, ortalama, en yüksek) ve firma sayıları, Kasım 2026."
+keywords:
+  - halı yıkama
+  - halı yıkama fiyatları
+  - carpet cleaning
+  - prices
+  - Turkey
