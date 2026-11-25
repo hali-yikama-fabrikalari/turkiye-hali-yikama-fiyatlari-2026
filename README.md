@@ -1,4 +1,4 @@
-# Türkiye Halı Yıkama Fiyatları 2026
+# Halı Yıkama Metrekare Fiyatları, 81 İl ve 682 İlçe (Kasım 2026)
 
 Türkiye'nin 81 ilinde ve 682 ilçesinde halı yıkama firmalarının m² fiyatları: 24 halı türü için en düşük, ortalama ve en yüksek fiyat, fiyatın kaç firmadan derlendiği ve il, ilçe bazında firma sayıları. Veri Kasım 2026'da [Halı Yıkama Fabrikaları](https://haliyikamafabrikalari.com) dizinindeki **4.561 firmadan**, fiyat listesi yayımlayan **421 firmanın** fiyatlarıyla hazırlandı.
 
@@ -80,8 +80,10 @@ Dosyalar UTF-8, virgülle ayrılmış (CSV). Sütunlar:
 Atıf biçimi:
 
 ```
-Halı Yıkama Fabrikaları (2026). Türkiye Halı Yıkama Fiyatları 2026 [Veri seti]. https://haliyikamafabrikalari.com/hali-yikama-fiyatlari
+Halı Yıkama Fabrikaları (2026). Türkiye Halı Yıkama Fiyatları 2026 [Veri seti]. Zenodo. https://doi.org/10.5281/zenodo.24520867
 ```
+
+Kalıcı yayın numarası (DOI): [10.5281/zenodo.24520867](https://doi.org/10.5281/zenodo.24520867). Güncel rakamlar her zaman [haliyikamafabrikalari.com/hali-yikama-fiyatlari](https://haliyikamafabrikalari.com/hali-yikama-fiyatlari) sayfasındadır.
 
 İletişim: destek@haliyikamafabrikalari.com
 
